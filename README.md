@@ -1,4 +1,4 @@
-# Gizyskon
+# Gizskyon
 
 [SMBC Comic about numerology](https://www.smbc-comics.com/comic/numbers)
 
@@ -14,7 +14,7 @@ So my non-smart guess it that either this
 
 I think the problem is the "remaining letter"- if you get rid of the front of some string (or any part of it, even if it was every other letter removed or decimation), it isn't going to affect the answer anymore.
 
-[I asked ChatGPT and it said, GIZYSKON](https://chatgpt.com/share/68df013c-7148-8007-8f1f-bda74ca570f4).
+[I asked ChatGPT and it said, GIZSKYON](https://chatgpt.com/share/68df013c-7148-8007-8f1f-bda74ca570f4).
 
 Code at [main.py](main.py)
 
