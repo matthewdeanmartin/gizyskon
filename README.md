@@ -16,5 +16,7 @@ I think the problem is the "remaining letter"- if you get rid of the front of so
 
 [I asked ChatGPT and it said, GIZYSKON](https://chatgpt.com/share/68df013c-7148-8007-8f1f-bda74ca570f4).
 
+Code at [main.py](main.py)
+
 Because this is now just like a letter map shifted by 6.
 
